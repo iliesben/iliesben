@@ -1,4 +1,4 @@
-# Full-Time Developer Part-Time Cat Whisperer 💻😸
+# Full-Time Developer / Part-Time Cat Whisperer 💻😸
 
 👋 Hi there! I'm a passionate **Front-End Developer** specializing in **React** and **Next**. I create interactive, performant, and user-friendly web applications by transforming complex ideas into simple, elegant solutions.
 
